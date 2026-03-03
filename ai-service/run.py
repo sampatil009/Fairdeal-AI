@@ -9,5 +9,5 @@ def create_app():
 
 if __name__ == '__main__':
     app = create_app()
-    # Runs on port 5001 internally
-    app.run(host='0.0.0.0', port=5001, debug=True)
+    # Runs on port 8000 internally
+    app.run(host='0.0.0.0', port=8000, debug=True)
