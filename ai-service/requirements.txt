@@ -1,0 +1,9 @@
+Flask==3.0.0
+spacy==3.7.2
+vaderSentiment==3.3.2
+torch==2.1.0
+stable-baselines3==2.2.1
+shap==0.43.0
+numpy==1.26.2
+Waitress==2.1.2
+python-dotenv==1.0.0
